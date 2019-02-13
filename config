@@ -1,1 +1,16 @@
-
+{
+  "lver": 1,
+  "fupate": true,
+  "apkurl": "http://www.google.com",
+  "downloadback": true,
+  "updatefromurl": true,
+  "fb_ad": {
+    "video_interstitial": "YOUR_PLACEMENT_ID",
+    "video_list_landscape": "YOUR_PLACEMENT_ID",
+    "video_list_fullscreen": "YOUR_PLACEMENT_ID",
+    "video_relative_landscape": "YOUR_PLACEMENT_ID",
+    "video_relative_fullscreen": "YOUR_PLACEMENT_ID",
+    "video_view": "YOUR_PLACEMENT_ID",
+    "video_native_banner": "YOUR_PLACEMENT_ID"
+  }
+}
