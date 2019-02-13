@@ -1,1 +1,21 @@
 
+{
+  "app": [
+    {
+      "n": "Whatsapp", //name
+      "d": "chat app", // description
+      "i":"https://image.flaticon.com/icons/svg/134/134937.svg", //icon
+      "p": "com.whatsapp", //pkg
+      "u": "" //url
+    },
+    {
+      "n": "Whatsapp",
+      "d": "chat app",
+      "i": "https://socialcleark.com/wp-content/uploads/2018/09/instagram-300x300.png",
+      "p": "com.whatsapp",
+      "u": ""
+    }
+  ],
+  "r": true,
+  "rc": 4
+}
