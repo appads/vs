@@ -2,11 +2,11 @@
 {
   "app": [
     {
-      "n": "Whatsapp", //name
-      "d": "chat app", // description
-      "i":"https://image.flaticon.com/icons/svg/134/134937.svg", //icon
-      "p": "com.whatsapp", //pkg
-      "u": "" //url
+      "n": "Whatsapp", 
+      "d": "chat app", 
+      "i":"https://image.flaticon.com/icons/svg/134/134937.svg", 
+      "p": "com.whatsapp", 
+      "u": "" 
     },
     {
       "n": "Whatsapp",
