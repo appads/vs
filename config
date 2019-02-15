@@ -5,12 +5,12 @@
   "downloadback": true,
   "updatefromurl": true,
   "fb_ad": {
-    "video_interstitial": "YOUR_PLACEMENT_ID",
-    "video_list_landscape": "YOUR_PLACEMENT_ID",
-    "video_list_fullscreen": "YOUR_PLACEMENT_ID",
-    "video_relative_landscape": "YOUR_PLACEMENT_ID",
-    "video_relative_fullscreen": "YOUR_PLACEMENT_ID",
-    "video_view": "YOUR_PLACEMENT_ID",
+    "video_interstitial": "1071169613055824_1071180233054762",
+    "video_list_landscape": "1071169613055824_1071170719722380",
+    "video_list_fullscreen": "1071169613055824_1071177369721715",
+    "video_relative_landscape": "1071169613055824_1071178833054902",
+    "video_relative_fullscreen": "1071169613055824_1071178523054933",
+    "video_view": "1071169613055824_1071179473054838",
     "video_native_banner": "YOUR_PLACEMENT_ID"
   }
 }
