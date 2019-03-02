@@ -25,8 +25,8 @@
       "full_border":true,
       "land_border_color":"#ff047cfe",
       "full_border_color":"#ff047cfe",
-      "land_border_width":3,
-      "full_border_width":3,
+      "land_border_width":2,
+      "full_border_width":2,
       "land_button_back":"",
       "full_button_back":"#ff047cfe"
     }
