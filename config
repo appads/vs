@@ -21,11 +21,11 @@
     "downloaded_ran":3,
     "wstatus_ran":4,
     "native":{
-      "land_border":false,
+      "land_border":true,
       "full_border":true,
       "land_border_color":"#ff047cfe",
       "full_border_color":"#ff047cfe",
-      "land_border_width":5,
+      "land_border_width":2,
       "full_border_width":4,
       "land_button_back":"",
       "full_button_back":"#047cfe"
