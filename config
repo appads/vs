@@ -21,14 +21,14 @@
     "downloaded_ran":3,
     "wstatus_ran":3,
     "native":{
-      "land_border":true,
-      "full_border":true,
+      "land_border":false,
+      "full_border":false,
       "land_border_color":"#ff047cfe",
       "full_border_color":"#ff047cfe",
       "land_border_width":2,
       "full_border_width":2,
       "land_button_back":"",
-      "full_button_back":"#ff152227"
+      "full_button_back":"#ff047cfe"
     }
   },
   "catids":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
