@@ -19,7 +19,7 @@
     "video_ran":3,
     "related_ran":3,
     "downloaded_ran":3,
-    "wstatus_ran":3,
+    "wstatus_ran":4,
     "native":{
       "land_border":true,
       "full_border":true,
